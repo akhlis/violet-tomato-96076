@@ -20,13 +20,13 @@ params:
         style: link
       - type: action
         template: action
-        label: About
-        url: /about
+        label: Style Guide
+        url: /style-guide
         style: link
       - type: action
         template: action
-        label: Style Guide
-        url: /style-guide
+        label: About
+        url: /about
         style: link
       - type: action
         template: action
